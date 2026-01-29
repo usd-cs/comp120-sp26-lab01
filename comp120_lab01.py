@@ -10,7 +10,7 @@ def difference(x, y):
     Returns:
         int: Absolute difference between x and y
     """
-    diff = y - x # this has a bug (don't fix it yet though)
+    diff = y - x
     return diff
 
 
